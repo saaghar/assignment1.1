@@ -1,1 +1,2 @@
-# assignment1.1
+# Intro to data science and AI 
+DAT407--Chalmers 
